@@ -1,4 +1,3 @@
-  GNU nano 4.8                                                                                        README.md                                                                                                    
 <br>
 <br>
 <br>
