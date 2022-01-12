@@ -13,7 +13,7 @@
 <br>
 <br>
 <br>
-<p align="center">
+<p
 <a href="https://br.linkedin.com/in/luan-mar%C3%A7al-71b111220" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
 <a href="https://www.instagram.com/luanmarcal_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
 </p>
